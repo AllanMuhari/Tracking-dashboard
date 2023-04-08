@@ -124,7 +124,6 @@ body {
     margin-left: 2.5rem;
 }
 
-/******** CARD COLORS *********/
 .work {
     background: hsl(15, 100%, 70%);
 }
@@ -137,7 +136,6 @@ body {
     background: hsl(348, 100%, 68%);
 }
 
-/**** TEMPORARY FIX FOR ALIGNMENT ISSUES *****/
 .exercise {
     background: hsl(145, 58%, 55%);
 }
@@ -147,15 +145,10 @@ body {
     padding-bottom: 1rem;
 }
 
-/******************************************/
-
-/**** TEMPORARY FIX FOR ALIGNMENT ISSUES *****/
 
 .social {
     background: hsl(264, 64%, 52%);
 }
-
-/**** TEMPORARY FIX FOR ALIGNMENT ISSUES *****/
 .heart-icon {
     padding-bottom: 1rem;
 }
@@ -163,9 +156,8 @@ body {
 .self-care {
     background: hsl(43, 84%, 65%);
 }
-/*******************************/
 
-/* STYLING FOR STAT CARD  */
+
 .stat-card {
     background:  hsl(235, 46%, 20%);
     padding: 1.5rem;
